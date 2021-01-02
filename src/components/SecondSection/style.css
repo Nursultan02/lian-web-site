@@ -1,0 +1,10 @@
+.secondSection {
+    background-color: #fafafa;
+    padding-bottom: 40px;
+    width: 100vw;
+}
+
+.secondSection-container {
+    max-width: 1140px;
+    margin: 0 auto;
+}
